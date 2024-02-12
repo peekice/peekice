@@ -11,4 +11,4 @@
 ### [Instragram](https://www.instagram.com/peek_ice)
 ### <peekkan.p@gmail.com>
 
-![This is the way!](/pic/this-is-the-way.gif "This is the way!")
+<img src="pic/this-is-the-way.gif" style="width:700px; height:auto;">
