@@ -1,8 +1,4 @@
-# Profile
-
-# Name:
-### Peekkan Pinkan
-
+# Peekkan Pinkan
 
 # About me
 
