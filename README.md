@@ -1,4 +1,4 @@
-# Peekkan Pinkan
+# Peekkan Piankan
 
 # About me
 
