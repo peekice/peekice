@@ -1,0 +1,41 @@
+name: Random Song 
+
+on: 
+  schedule:
+    - cron: '0 17 * * *'  # 17:00 UTC is midnight ICT
+  workflow_dispatch:
+
+jobs:
+  Random-song:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Make API call to Spotify
+      run: python random_song.py
+      env:
+        CLIENT_ID: ${{ secrets.CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        PLAYLIST_ID: ${{ secrets.PLAYLIST_ID }}
+        
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md current_song.txt
+        git commit -m "Update random song in README.md"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
