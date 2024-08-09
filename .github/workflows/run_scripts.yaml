@@ -3,7 +3,6 @@ name: Random Song
 on: 
   schedule:
     - cron: '0 17 * * *'  # 17:00 UTC is midnight ICT
-  workflow_dispatch:
 
 jobs:
   Random-song:
