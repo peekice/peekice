@@ -24,8 +24,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -35,13 +35,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Hold On Tight
+          Love Me Like This
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          NMIXX
          </span>
         </h3>
        </div>
