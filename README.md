@@ -20,8 +20,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2ahp0wvyEzyvgWfOhStHWp" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -31,13 +31,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Drama
+          Blue Flame (2023 Ver.)
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          LE SSERAFIM
          </span>
         </h3>
        </div>
