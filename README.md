@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273409a2d7bd4b2238e4aaa7bf5" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Hold On Tight
+          3D (feat. Jack Harlow)
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          Jung Kook
          </span>
         </h3>
        </div>
