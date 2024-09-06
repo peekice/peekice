@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273249dc66f0cb95bed7dacc39e" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Smart
+          How Sweet
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          NewJeans
          </span>
         </h3>
        </div>
