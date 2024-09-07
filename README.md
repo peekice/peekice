@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          How Sweet
+          Shhh
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          NewJeans
+          KISS OF LIFE
          </span>
         </h3>
        </div>
