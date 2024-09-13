@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Ditto
+          Perfect Night
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          NewJeans
+          LE SSERAFIM
          </span>
         </h3>
        </div>
