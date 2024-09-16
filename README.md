@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Magnetic
+          Fighting (Feat. Lee Young Ji)
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ILLIT
+          BSS
          </span>
         </h3>
        </div>
