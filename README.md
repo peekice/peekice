@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Nobody Knows
+          Midas Touch
          </em>
         </h3>
         <h3>
