@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          'Til We Meet Again
+          Don't Blink
          </em>
         </h3>
         <h3>
