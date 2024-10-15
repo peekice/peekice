@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          I AM
+          Love Me Like This
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          IVE
+          NMIXX
          </span>
         </h3>
        </div>
