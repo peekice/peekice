@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Flowers
+          Feel My Rhythm
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          Red Velvet
          </span>
         </h3>
        </div>
