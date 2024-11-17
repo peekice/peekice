@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Perfect Night
+          Smart
          </em>
         </h3>
         <h3>
