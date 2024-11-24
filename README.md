@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273249dc66f0cb95bed7dacc39e" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Smart
+          Drama
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          aespa
          </span>
         </h3>
        </div>
