@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3Oi1pDSYLVkz3i8jOXaQdt" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Just Another Girl
+          Sticky
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          KISS OF LIFE
          </span>
         </h3>
        </div>
