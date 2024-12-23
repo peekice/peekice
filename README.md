@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/11JpW4h96X4TlGt6LFpNCC" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Cookie
+          ICU
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          NewJeans
+          aespa
          </span>
         </h3>
        </div>
