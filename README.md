@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2Kf6WQmc6TU4bYIu3Szsz2" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273e467a8e8d7b0aa92d354aa75" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          I AM
+          Pink Hoodie
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          IVE
+          aespa
          </span>
         </h3>
        </div>
