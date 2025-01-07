@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Fate
+          Ditto
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          (G)I-DLE
+          NewJeans
          </span>
         </h3>
        </div>
