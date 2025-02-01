@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27303c996028737858321d2ffe0" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Deja Vu
+          OMG
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          TOMORROW X TOGETHER
+          NewJeans
          </span>
         </h3>
        </div>
