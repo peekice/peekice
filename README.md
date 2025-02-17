@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          UP - KARINA Solo
+          Hype Boy
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          NewJeans
          </span>
         </h3>
        </div>
