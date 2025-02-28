@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/44qlcokPO2RjD8791ohJFR" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Bored! - NINGNING Solo
+          Savage
          </em>
         </h3>
         <h3>
