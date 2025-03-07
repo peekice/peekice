@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/7JhAss3J9U99ZO2BsEZCE9" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2731fef5f5629bd24c624e82d54" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Hold On Tight
+          ASAP
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          NewJeans
          </span>
         </h3>
        </div>
