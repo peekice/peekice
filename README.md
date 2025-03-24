@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Psycho
+          Illusion
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          Red Velvet
+          aespa
          </span>
         </h3>
        </div>
