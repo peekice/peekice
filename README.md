@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2733d98a0ae7c78a3a9babaf8af" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27315175a3af8eb08dbc8c77a31" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Super Shy
+          Get Loud
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          NewJeans
+          KISS OF LIFE
          </span>
         </h3>
        </div>
