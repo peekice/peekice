@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Life's Too Short
+          Fate
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          (G)I-DLE
          </span>
         </h3>
        </div>
