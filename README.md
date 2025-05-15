@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2DJRPYt6QLeYlU6xzdSW5p" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Sweet Dreams (feat. Miguel)
+          Your Eyes Only
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          j-hope
+          ENHYPEN
          </span>
         </h3>
        </div>
