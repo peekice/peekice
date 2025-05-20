@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          LO$ER=LO♡ER
+          Sour Grapes
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          TOMORROW X TOGETHER
+          LE SSERAFIM
          </span>
         </h3>
        </div>
