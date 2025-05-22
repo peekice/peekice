@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/2AdzsePCqH6NUcMq7tYYmx" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2736067880e6c410727ac5a5f8b" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6AOrC7t2WS5ykYcnoHpiS2" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Back for More (TXT Ver.)
+          Lonely Boy (The tattoo on my ring finger)
          </em>
         </h3>
         <h3>
