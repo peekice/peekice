@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/52qof5uEYA0TV0EpR7jNxs" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          You
+          Opening Sequence
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          TOMORROW X TOGETHER
          </span>
         </h3>
        </div>
