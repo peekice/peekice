@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c6c966c9fafefad40f3291d9" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6AOrC7t2WS5ykYcnoHpiS2" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Almond Chocolate
+          Lonely Boy (The tattoo on my ring finger)
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ILLIT
+          TOMORROW X TOGETHER
          </span>
         </h3>
        </div>
