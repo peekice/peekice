@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/5zyAmGZ6IfotltMUqzMhdg" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Blind
+          Midnight Fiction
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ENHYPEN
+          ILLIT
          </span>
         </h3>
        </div>
