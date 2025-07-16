@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          No Celestial
+          Still Monster
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          ENHYPEN
          </span>
         </h3>
        </div>
