@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/7Fq4xDlMtpqca0IyTYXldY" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2U28aK9o2gI7sBL4XRzFfL" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Lucifer
+          20cm
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ENHYPEN
+          TOMORROW X TOGETHER
          </span>
         </h3>
        </div>
