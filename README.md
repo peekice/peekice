@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1tO6hb9Ym7aTV8hJ31tLjr" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273f24755716ee6789fa094112c" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2U28aK9o2gI7sBL4XRzFfL" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          oops!
+          20cm
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ILLIT
+          TOMORROW X TOGETHER
          </span>
         </h3>
        </div>
