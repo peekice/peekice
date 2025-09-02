@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1x1oCGsFUDViOvcISuoKW0" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2730fc598038040859794c600e2" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Midnight Fiction
+          Live My Life
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ILLIT
+          aespa
          </span>
         </h3>
        </div>
