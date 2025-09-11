@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c31e3f3a15f96cfc4c8f7b7a" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2739aaa57e6ba6ea9060e087ce7" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          _WORLD
+          plot twist
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          SEVENTEEN
+          TWS
          </span>
         </h3>
        </div>
