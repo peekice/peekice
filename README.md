@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3lyibc1saJfWe5z7rTyWYO" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Bills
+          0X1=LOVESONG (I Know I Love You) feat. Seori
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ENHYPEN
+          TOMORROW X TOGETHER
          </span>
         </h3>
        </div>
