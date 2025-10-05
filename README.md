@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2739d44aafdb2f07f8658ed282b" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7Fq4xDlMtpqca0IyTYXldY" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Crazier
+          Lucifer
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          ENHYPEN
          </span>
         </h3>
        </div>
