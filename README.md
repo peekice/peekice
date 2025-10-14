@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3lyibc1saJfWe5z7rTyWYO" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2733369310bc92d472415369ed6" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          0X1=LOVESONG (I Know I Love You) feat. Seori
+          Good Parts (when the quality is bad but I am)
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          TOMORROW X TOGETHER
+          LE SSERAFIM
          </span>
         </h3>
        </div>
