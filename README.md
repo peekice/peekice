@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3acGHJqr9xU1cnCEfLX1Lx" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          I Don't Understand But I Luv U
+          Thirsty
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          SEVENTEEN
+          aespa
          </span>
         </h3>
        </div>
