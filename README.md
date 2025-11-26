@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7Fq4xDlMtpqca0IyTYXldY" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Given-Taken
+          Lucifer
          </em>
         </h3>
         <h3>
