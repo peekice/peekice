@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c31e3f3a15f96cfc4c8f7b7a" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          _WORLD
+          Cheers to youth
          </em>
         </h3>
         <h3>
