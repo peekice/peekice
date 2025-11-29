@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/5zyAmGZ6IfotltMUqzMhdg" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Cheers to youth
+          Blind
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          SEVENTEEN
+          ENHYPEN
          </span>
         </h3>
        </div>
