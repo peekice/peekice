@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27313134929dd979f89b8f4f477" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Cheers to youth
+          Crazier
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          SEVENTEEN
+          LE SSERAFIM
          </span>
         </h3>
        </div>
