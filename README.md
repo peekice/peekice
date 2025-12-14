@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/52qof5uEYA0TV0EpR7jNxs" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2ahp0wvyEzyvgWfOhStHWp" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27308afa023781dc4841319f3fc" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          You
+          Blue Flame (2023 Ver.)
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          aespa
+          LE SSERAFIM
          </span>
         </h3>
        </div>
