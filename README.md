@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Given-Taken
+          Midnight Fiction
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ENHYPEN
+          ILLIT
          </span>
         </h3>
        </div>
