@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27308afa023781dc4841319f3fc" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,13 +28,13 @@
         <h3>
          Song Title:
          <em id="title">
-          Life Goes On
+          FEARNOT (Between you, me and the lamppost)
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          BTS
+          LE SSERAFIM
          </span>
         </h3>
        </div>
