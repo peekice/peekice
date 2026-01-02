@@ -17,8 +17,8 @@
      <td>
       <div align="center">
        <div>
-        <a href="https://open.spotify.com/track/5zyAmGZ6IfotltMUqzMhdg" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
@@ -28,7 +28,7 @@
         <h3>
          Song Title:
          <em id="title">
-          Blind
+          Bills
          </em>
         </h3>
         <h3>
