@@ -209,7 +209,6 @@ def get_activity_from_strava():
     seconds = int((pace_min_float - minutes) * 60)
     activity_pace = f'{minutes}:{seconds:02d}'
 
-    # print(f"Last Activity: {activity_name} on {readable_date}, Distance: {activity_distance} at Pace: {activity_pace:.2f} min/km")
     if recent_activity.get("type") == "Run":
         add_activity_to_readme(
             activity_name, readable_date, activity_distance, activity_pace
