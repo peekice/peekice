@@ -168,7 +168,7 @@ def add_activity_to_readme(
       </td>
       <td width="150" align="center">
         <b>Pace</b><br />
-        <img src="https://img.shields.io/badge/{activity_pace:.2f}_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
+        <img src="https://img.shields.io/badge/{activity_pace}_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
       </td>
     </tr>
   </table>
