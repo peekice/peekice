@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Good Parts (when the quality is bad but I am)
+          Given-Taken
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          ENHYPEN
          </span>
         </h3>
        </div>
