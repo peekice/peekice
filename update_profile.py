@@ -155,8 +155,8 @@ def add_activity_to_readme(
   <table border="0">
     <tr>
       <td align="center" colspan="3">
-  <h2>🏃 My Latest Strava Activity</h2>
-        <strong>{activity_name}</strong><br />
+        <h2>🏃 My Latest Strava Activity</h2>
+        <strong>Afternoon Running</strong><br />
         <small>📅 {readable_date}</small>
       </td>
     </tr>
@@ -170,13 +170,16 @@ def add_activity_to_readme(
         <img src="https://img.shields.io/badge/{activity_pace}_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
       </td>
     </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <p>
+          <a href="https://www.strava.com/athletes/153761910">
+          <img src="https://img.shields.io/badge/Follow_on_Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Follow on Strava">
+          </a>
+        </p>
+      </td>
+    </tr>
   </table>
-  
-  <p>
-    <a href="https://www.strava.com/athletes/153761910">
-      <img src="https://img.shields.io/badge/Follow_on_Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Follow on Strava">
-    </a>
-  </p>
 </div>
 """
 

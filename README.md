@@ -20,15 +20,15 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/2DJRPYt6QLeYlU6xzdSW5p" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Your Eyes Only
+          Given-Taken
          </em>
         </h3>
         <h3>
@@ -66,13 +66,16 @@
         <img src="https://img.shields.io/badge/9:38_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
       </td>
     </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <p>
+          <a href="https://www.strava.com/athletes/153761910">
+          <img src="https://img.shields.io/badge/Follow_on_Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Follow on Strava">
+          </a>
+        </p>
+      </td>
+    </tr>
   </table>
-  
-  <p>
-    <a href="https://www.strava.com/athletes/153761910">
-      <img src="https://img.shields.io/badge/Follow_on_Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Follow on Strava">
-    </a>
-  </p>
 </div>
 <!-- End last activity -->
 
@@ -98,7 +101,7 @@
 <h3 align="left">DataBase : </h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 <hr>
 
@@ -107,6 +110,6 @@
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.ibm.com/topics/rest-apis" target="_blank" rel="noreferrer"> <img  src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/rest-api-icon.png " alt="rest api"  height="40"/> </a> 
-<a href="https://swagger.io" target="_blank" rel="noreferrer"> <img  src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger"  height="40"/> </a> 
+<a href="https://swagger.io" target="_blank" rel="noreferrer"> <img  src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger"  height="40"/> </a>
 
 <hr>
