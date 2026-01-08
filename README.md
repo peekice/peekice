@@ -48,11 +48,10 @@
 <!-- Start last activity -->
 
 <div align="center">
-  <h3>🏃 My Latest Strava Activity</h3>
-
   <table border="0">
     <tr>
       <td align="center" colspan="3">
+        <h3>🏃 My Latest Strava Activity</h3>
         <strong>Afternoon Running</strong><br />
         <small>📅 2026-01-07 17:28:50</small>
       </td>
