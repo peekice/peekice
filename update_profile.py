@@ -16,6 +16,10 @@ client_id = os.getenv("CLIENT_ID")
 client_secret = os.getenv("CLIENT_SECRET")
 playlist_id = os.getenv("PLAYLIST_ID")
 
+strava_client_id = os.getenv("STRAVA_CLIENT_ID")
+strava_client_secret = os.getenv("STRAVA_CLIENT_SECRET")
+strava_refresh_token = os.getenv("STRAVA_REFRESH_TOKEN")
+
 start_random_song = "<!-- Start random song -->"
 end_random_song = "<!-- End random song -->"
 
@@ -119,17 +123,14 @@ def random_songs_from_playlist():
 
 
 def get_strava_access_token():
-    client_id = os.getenv("STRAVA_CLIENT_ID")
-    client_secret = os.getenv("STRAVA_CLIENT_SECRET")
-    refresh_token = os.getenv("STRAVA_REFRESH_TOKEN")
 
     response = post(
         url="https://www.strava.com/api/v3/oauth/token",
         data={
-            "client_id": client_id,
-            "client_secret": client_secret,
+            "client_id": strava_client_id,
+            "client_secret": strava_client_secret,
             "grant_type": "refresh_token",
-            "refresh_token": refresh_token,
+            "refresh_token": strava_refresh_token,
         },
     )
     return response.json().get("access_token")
@@ -215,5 +216,5 @@ def get_activity_from_strava():
 
 
 if __name__ == "__main__":
-    # random_songs_from_playlist()
+    random_songs_from_playlist()
     get_activity_from_strava()
