@@ -1,4 +1,4 @@
-name: Random Song 
+name: Update Profile
 
 on: 
   schedule:
@@ -23,7 +23,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Make API call to Spotify
+    - name: Update profile
       run: python update_profile.py
       env:
         CLIENT_ID: ${{ secrets.CLIENT_ID }}
