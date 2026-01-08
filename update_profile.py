@@ -204,7 +204,10 @@ def get_activity_from_strava():
 
     activity_distance = f'{recent_activity["distance"] / 1000:.2f} km'
     activity_avg_speed = recent_activity["average_speed"]
-    activity_pace = (1000 / activity_avg_speed) / 60
+    pace_min_float = (1000 / activity_avg_speed) / 60
+    minutes = int(pace_min_float)
+    seconds = int((pace_min_float - minutes) * 60)
+    activity_pace = f'{minutes}:{seconds:02d}'
 
     # print(f"Last Activity: {activity_name} on {readable_date}, Distance: {activity_distance} at Pace: {activity_pace:.2f} min/km")
     if recent_activity.get("type") == "Run":
