@@ -17,14 +17,14 @@
      <td>
       <div align="center">
        <div>
+        <h2>
+         🎶 Song for Today 🎶
+        </h2>
         <a href="https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF" id="link" target="_blank">
          <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
-        <h2>
-         🎶 Song for Today 🎶
-        </h2>
         <h3>
          Song Title:
          <em id="title">
@@ -45,6 +45,37 @@
   </div>
 <!-- End random song -->
 
+<!-- Start last activity -->
+
+<div align="center">
+  <h3>🏃 My Latest Strava Activity</h3>
+
+  <table border="0">
+    <tr>
+      <td align="center" colspan="3">
+        <strong>Afternoon Run</strong><br />
+        <small>📅 2026-01-07 17:28:50</small>
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>Distance</b><br />
+        <img src="https://img.shields.io/badge/6.01 km-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Distance">
+      </td>
+      <td width="150" align="center">
+        <b>Pace</b><br />
+        <img src="https://img.shields.io/badge/9.63_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
+      </td>
+    </tr>
+  </table>
+  
+  <p>
+    <a href="https://www.strava.com/athletes/153761910">
+      <img src="https://img.shields.io/badge/Follow_on_Strava-FC4C02?style=flat-square&logo=strava&logoColor=white" alt="Follow on Strava">
+    </a>
+  </p>
+</div>
+<!-- End last activity -->
 
 <h3 align="left">Programing Languages : </h3>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -80,7 +111,3 @@
 <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img  src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger"  height="40"/> </a> 
 
 <hr>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=peekice&show_icons=true&locale=en" alt="peekice" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=peekice&" alt="peekice" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=peekice&show_icons=true&locale=en&layout=compact" alt="peekice" /></p>
