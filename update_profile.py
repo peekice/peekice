@@ -152,11 +152,10 @@ def add_activity_to_readme(
 
     html_pattern = f"""
 <div align="center">
-  <h3>🏃 My Latest Strava Activity</h3>
-
   <table border="0">
     <tr>
       <td align="center" colspan="3">
+  <h2>🏃 My Latest Strava Activity</h2>
         <strong>{activity_name}</strong><br />
         <small>📅 {readable_date}</small>
       </td>
