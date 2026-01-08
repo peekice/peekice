@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273c6c966c9fafefad40f3291d9" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Good Parts (when the quality is bad but I am)
+          Almond Chocolate
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          LE SSERAFIM
+          ILLIT
          </span>
         </h3>
        </div>
@@ -53,7 +53,7 @@
   <table border="0">
     <tr>
       <td align="center" colspan="3">
-        <strong>Afternoon Run</strong><br />
+        <strong>Afternoon Running</strong><br />
         <small>📅 2026-01-07 17:28:50</small>
       </td>
     </tr>
