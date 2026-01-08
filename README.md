@@ -17,16 +17,11 @@
      <td>
       <div align="center">
        <div>
-<<<<<<< HEAD
         <h2>
          🎶 Song for Today 🎶
         </h2>
         <a href="https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF" id="link" target="_blank">
          <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" style="width: 250px;"/>
-=======
-        <a href="https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2739cfed1dd2d368a0855d7b1a4" style="width: 250px;"/>
->>>>>>> cc4c60c50d99b3a9ed50b733f838464f34bd244f
         </a>
        </div>
        <div style="text-align: center;">
