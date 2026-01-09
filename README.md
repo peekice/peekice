@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Alright
+          Ride
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          Kendrick Lamar
+          Twenty One Pilots
          </span>
         </h3>
        </div>
