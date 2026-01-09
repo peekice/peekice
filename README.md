@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27382ce362511fb3d9dda6578ee" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          SHOUT OUT
+          As It Was
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          ENHYPEN
+          Harry Styles
          </span>
         </h3>
        </div>
