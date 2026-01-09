@@ -217,9 +217,13 @@ def get_activity_from_strava():
         activity_pace = f'{pace_minutes}:{pace_seconds:02d}'
 
         activity_time = recent_activity["moving_time"]
-        minutes = activity_time // 60
+        hours = activity_time // 3600
+        minutes = (activity_time % 3600) // 60
         seconds = activity_time % 60
-        activity_time_formatted = f"{minutes}m {seconds}s"
+        if hours > 0:
+            activity_time_formatted = f"{hours}h {minutes}m {seconds}s"
+        else:
+            activity_time_formatted = f"{minutes}m {seconds}s"
 
         add_activity_to_readme(
             activity_name, readable_date.strftime("%d %B, %Y"), activity_distance, activity_pace, activity_time_formatted
