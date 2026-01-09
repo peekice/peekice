@@ -137,7 +137,7 @@ def get_strava_access_token():
 
 
 def add_activity_to_readme(
-    activity_name, readable_date, activity_distance, activity_pace
+    activity_name, readable_date, activity_distance, activity_pace, activity_time_formatted
 ):
     with open(md_path, "r", encoding="utf-8") as file:
         content = file.readlines()
@@ -156,7 +156,7 @@ def add_activity_to_readme(
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <strong>Afternoon Running</strong><br />
+        <strong>{activity_name}</strong><br />
         <small>📅 {readable_date}</small>
       </td>
     </tr>
@@ -164,6 +164,10 @@ def add_activity_to_readme(
       <td width="150" align="center">
         <b>Distance</b><br />
         <img src="https://img.shields.io/badge/{activity_distance}-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Distance">
+      </td>
+      <td width="150" align="center">
+        <b>Time</b><br />
+        <img src="https://img.shields.io/badge/{activity_time_formatted}-03A9F4?logo=clockify&logoColor=fff&style=for-the-badge" alt="Pace">
       </td>
       <td width="150" align="center">
         <b>Pace</b><br />
@@ -199,21 +203,26 @@ def get_activity_from_strava():
     activities = response.json()
 
     recent_activity = activities[0]
-    activity_name = recent_activity["name"]
-
-    activity_date = recent_activity["start_date_local"]
-    readable_date = datetime.strptime(activity_date, "%Y-%m-%dT%H:%M:%SZ")
-
-    activity_distance = f'{recent_activity["distance"] / 1000:.2f} km'
-    activity_avg_speed = recent_activity["average_speed"]
-    pace_min_float = (1000 / activity_avg_speed) / 60
-    minutes = int(pace_min_float)
-    seconds = int((pace_min_float - minutes) * 60)
-    activity_pace = f'{minutes}:{seconds:02d}'
 
     if recent_activity.get("type") == "Run":
+        activity_name = recent_activity["name"]
+        activity_date = recent_activity["start_date_local"]
+        readable_date = datetime.strptime(activity_date, "%Y-%m-%dT%H:%M:%SZ")
+
+        activity_distance = f'{recent_activity["distance"] / 1000:.2f} km'
+        activity_avg_speed = recent_activity["average_speed"]
+        pace_min_float = (1000 / activity_avg_speed) / 60
+        pace_minutes = int(pace_min_float)
+        pace_seconds = int((pace_min_float - pace_minutes) * 60)
+        activity_pace = f'{pace_minutes}:{pace_seconds:02d}'
+
+        activity_time = recent_activity["moving_time"]
+        minutes = activity_time // 60
+        seconds = activity_time % 60
+        activity_time_formatted = f"{minutes}m {seconds}s"
+
         add_activity_to_readme(
-            activity_name, readable_date, activity_distance, activity_pace
+            activity_name, readable_date.strftime("%d %B, %Y"), activity_distance, activity_pace, activity_time_formatted
         )
     else:
         print("Last activity is not a run. No update made.")

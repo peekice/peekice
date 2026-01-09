@@ -20,15 +20,15 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Given-Taken
+          CRIMINAL LOVE
          </em>
         </h3>
         <h3>
@@ -53,13 +53,17 @@
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
         <strong>Afternoon Running</strong><br />
-        <small>📅 2026-01-07 17:28:50</small>
+        <small>📅 07 January, 2026</small>
       </td>
     </tr>
     <tr>
       <td width="150" align="center">
         <b>Distance</b><br />
         <img src="https://img.shields.io/badge/6.01 km-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Distance">
+      </td>
+      <td width="150" align="center">
+        <b>Time</b><br />
+        <img src="https://img.shields.io/badge/57m 55s-03A9F4?logo=clockify&logoColor=fff&style=for-the-badge" alt="Pace">
       </td>
       <td width="150" align="center">
         <b>Pace</b><br />
