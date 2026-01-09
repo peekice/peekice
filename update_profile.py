@@ -198,25 +198,24 @@ def add_activity_to_readme(
 def get_activity_from_strava():
     access_token = get_strava_access_token()
     headers = {"Authorization": f"Bearer {access_token}"}
+    params = {"per_page": 1, "page": 1}
     activity_url = "https://www.strava.com/api/v3/athlete/activities"
-    response = get(activity_url, headers=headers)
-    activities = response.json()
+    response = get(activity_url, headers=headers, params=params)
+    latest_activity = response.json()[0]
 
-    recent_activity = activities[0]
-
-    if recent_activity.get("type") == "Run":
-        activity_name = recent_activity["name"]
-        activity_date = recent_activity["start_date_local"]
+    if latest_activity.get("type") == "Run":
+        activity_name = latest_activity["name"]
+        activity_date = latest_activity["start_date_local"]
         readable_date = datetime.strptime(activity_date, "%Y-%m-%dT%H:%M:%SZ")
 
-        activity_distance = f'{recent_activity["distance"] / 1000:.2f} km'
-        activity_avg_speed = recent_activity["average_speed"]
+        activity_distance = f'{latest_activity["distance"] / 1000:.2f} km'
+        activity_avg_speed = latest_activity["average_speed"]
         pace_min_float = (1000 / activity_avg_speed) / 60
         pace_minutes = int(pace_min_float)
         pace_seconds = int((pace_min_float - pace_minutes) * 60)
         activity_pace = f'{pace_minutes}:{pace_seconds:02d}'
 
-        activity_time = recent_activity["moving_time"]
+        activity_time = latest_activity["moving_time"]
         hours = activity_time // 3600
         minutes = (activity_time % 3600) // 60
         seconds = activity_time % 60
@@ -229,7 +228,7 @@ def get_activity_from_strava():
             activity_name, readable_date.strftime("%d %B, %Y"), activity_distance, activity_pace, activity_time_formatted
         )
     else:
-        print("Last activity is not a run. No update made.")
+        return
 
 
 if __name__ == "__main__":
