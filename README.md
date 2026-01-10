@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Love The Way You Lie
+          Heathens
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          Eminem
+          Twenty One Pilots
          </span>
         </h3>
        </div>
