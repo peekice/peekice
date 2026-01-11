@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Heathens
+          Alright
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          Twenty One Pilots
+          Kendrick Lamar
          </span>
         </h3>
        </div>
@@ -52,22 +52,22 @@
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <strong>Afternoon Run</strong><br />
-        <small>📅 09 January, 2026</small>
+        <strong>Khaoyai Marathon</strong><br />
+        <small>📅 11 January, 2026</small>
       </td>
     </tr>
     <tr>
       <td width="150" align="center">
         <b>Distance</b><br />
-        <img src="https://img.shields.io/badge/7.00 km-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Distance">
+        <img src="https://img.shields.io/badge/21.30 km-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Distance">
       </td>
       <td width="150" align="center">
         <b>Time</b><br />
-        <img src="https://img.shields.io/badge/1h 8m 5s-03A9F4?logo=clockify&logoColor=fff&style=for-the-badge" alt="Pace">
+        <img src="https://img.shields.io/badge/2h 42m 53s-03A9F4?logo=clockify&logoColor=fff&style=for-the-badge" alt="Pace">
       </td>
       <td width="150" align="center">
         <b>Pace</b><br />
-        <img src="https://img.shields.io/badge/9:43_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
+        <img src="https://img.shields.io/badge/7:38_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
       </td>
     </tr>
     <tr>
