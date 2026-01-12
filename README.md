@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Heathens
+          The Box
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          Twenty One Pilots
+          Roddy Ricch
          </span>
         </h3>
        </div>
