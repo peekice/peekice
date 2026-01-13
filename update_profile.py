@@ -1,11 +1,10 @@
 from datetime import datetime
-from dotenv import load_dotenv, dotenv_values
+from dotenv import load_dotenv
 import os
 import base64
 from requests import post, get
 import json
 import random
-from bs4 import BeautifulSoup
 
 load_dotenv()
 env_path = ".env"
@@ -63,30 +62,44 @@ def add_song_to_readme(title, artist, img, link):
         (i for i, line in enumerate(content) if end_random_song in line), None
     )
 
-    replace_song = "".join(content[start_line:end_line])
-    soup = BeautifulSoup(replace_song, "lxml")
-
-    tag = {"title": title, "artist": artist, "image": img, "link": link}
-
-    for t in tag:
-        element = soup.find(id=t)
-        if element:
-            if element.name == "a":
-                element["href"] = tag[t]
-                img = element.find("img")
-                img["src"] = tag["image"]
-            else:
-                element.string = tag[t]
-
+    html_pattern = f"""<div align="center">
+   <table>
+    <tr>
+     <td>
+      <div align="center">
+       <div>
+        <h2>
+         🎶 Song for Today 🎶
+        </h2>
+        <a href="{link}" target="_blank">
+         <img src="{img}" style="width: 250px;"/>
+        </a>
+       </div>
+       <div style="text-align: center;">
+        <h3>
+         Song Title:
+         <em id="title">
+          {title}
+         </em>
+        </h3>
+        <h3>
+         Artist:{artist}
+        </h3>
+       </div>
+      </div>
+     </td>
+    </tr>
+   </table>
+  </div>
+  """
+    
     new_content = (
         "".join(content[:start_line])
-        + str(soup.prettify()[15:-17])
+        + html_pattern
         + "".join(content[end_line:])
     )
-
     with open(md_path, "w", encoding="utf-8") as file:
         file.write(new_content)
-
 
 def get_current_song_id():
     with open(current_song_path, "r") as f:
@@ -156,7 +169,7 @@ def add_activity_to_readme(
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <a href="https://www.strava.com/activities/{activity_id}"><strong>{activity_name}</strong></a><br/>
+        <a href="https://www.strava.com/activities/{activity_id}" target="_blank"><strong>{activity_name}</strong></a><br/>
         <small>📅 {readable_date}</small>
       </td>
     </tr>
