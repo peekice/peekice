@@ -20,21 +20,21 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk" id="link" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          The Box
+          Without Me
          </em>
         </h3>
         <h3>
          Artist:
          <span id="artist">
-          Roddy Ricch
+          Eminem
          </span>
         </h3>
        </div>
@@ -52,7 +52,7 @@
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <strong>Khaoyai Marathon</strong><br />
+        <a href="https://www.strava.com/activities/Khaoyai Marathon"><strong>Khaoyai Marathon</strong></a><br/>
         <small>📅 11 January, 2026</small>
       </td>
     </tr>
