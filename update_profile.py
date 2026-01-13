@@ -156,7 +156,7 @@ def add_activity_to_readme(
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <a href="https://www.strava.com/activities/{activity_name}"><strong>{activity_name}</strong></a><br/>
+        <a href="https://www.strava.com/activities/{activity_id}"><strong>{activity_name}</strong></a><br/>
         <small>📅 {readable_date}</small>
       </td>
     </tr>
