@@ -137,7 +137,7 @@ def get_strava_access_token():
 
 
 def add_activity_to_readme(
-    activity_name, readable_date, activity_distance, activity_pace, activity_time_formatted
+    activity_id, activity_name, readable_date, activity_distance, activity_pace, activity_time_formatted
 ):
     with open(md_path, "r", encoding="utf-8") as file:
         content = file.readlines()
@@ -156,7 +156,7 @@ def add_activity_to_readme(
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <strong>{activity_name}</strong><br />
+        <a href="https://www.strava.com/activities/{activity_name}"><strong>{activity_name}</strong></a><br/>
         <small>📅 {readable_date}</small>
       </td>
     </tr>
@@ -204,6 +204,7 @@ def get_activity_from_strava():
     latest_activity = response.json()[0]
 
     if latest_activity.get("type") == "Run":
+        activity_id = latest_activity["id"]
         activity_name = latest_activity["name"]
         activity_date = latest_activity["start_date_local"]
         readable_date = datetime.strptime(activity_date, "%Y-%m-%dT%H:%M:%SZ")
@@ -225,7 +226,7 @@ def get_activity_from_strava():
             activity_time_formatted = f"{minutes}m {seconds}s"
 
         add_activity_to_readme(
-            activity_name, readable_date.strftime("%d %B, %Y"), activity_distance, activity_pace, activity_time_formatted
+            activity_id,activity_name, readable_date.strftime("%d %B, %Y"), activity_distance, activity_pace, activity_time_formatted
         )
     else:
         return
