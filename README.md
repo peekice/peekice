@@ -11,7 +11,7 @@
 </p>
 
 <!-- Start random song -->
-  <div align="center">
+<div align="center">
    <table>
     <tr>
      <td>
@@ -20,22 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/7KoYZb5Io55vvQHBJnaMT5" id="link" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273ebd5b3cd09a4818d9d35a9a8" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1y1sChqjzdNWzwdHQADMrR" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Levitating (feat. DaBaby)
+          Numb
          </em>
         </h3>
         <h3>
-         Artist:
-         <span id="artist">
-          Dua Lipa
-         </span>
+         Artist:Linkin Park
         </h3>
        </div>
       </div>
@@ -43,7 +40,7 @@
     </tr>
    </table>
   </div>
-<!-- End random song -->
+  <!-- End random song -->
 
 <!-- Start last activity -->
 
@@ -52,7 +49,7 @@
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <a href="https://www.strava.com/activities/17006427646"><strong>Khaoyai Marathon</strong></a><br/>
+        <a href="https://www.strava.com/activities/17006427646" target="_blank"><strong>Khaoyai Marathon</strong></a><br/>
         <small>📅 11 January, 2026</small>
       </td>
     </tr>
