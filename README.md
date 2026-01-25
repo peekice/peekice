@@ -20,15 +20,15 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273483a98632e23f6d2623ab75c" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Centuries
+          My Songs Know What You Did In The Dark (Light Em Up)
          </em>
         </h3>
         <h3>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                          <!-- End random song -->
+                            <!-- End random song -->
 
 <!-- Start last activity -->
 
@@ -49,7 +49,7 @@
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <a href="https://www.strava.com/activities/17162581767" target="_blank"><strong>Evening Run</strong></a><br/>
+        <a href="https://www.strava.com/activities/17162581767" target="_blank"><strong>Buriram Marathon</strong></a><br/>
         <small>📅 24 January, 2026</small>
       </td>
     </tr>
