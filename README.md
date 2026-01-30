@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b27382ce362511fb3d9dda6578ee" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          As It Was
+          Empire State Of Mind
          </em>
         </h3>
         <h3>
-         Artist:Harry Styles
+         Artist:JAY-Z
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                    <!-- End random song -->
+                                      <!-- End random song -->
 
 <!-- Start last activity -->
 
