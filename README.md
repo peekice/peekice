@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/1wIyr1y5wiWqo7nqbxHpWt" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273e2c879f3983d1488f2c3ca4e" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          squabble up
+          FRIENDS
          </em>
         </h3>
         <h3>
-         Artist:Kendrick Lamar
+         Artist:Marshmello
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                        <!-- End random song -->
+                                          <!-- End random song -->
 
 <!-- Start last activity -->
 
