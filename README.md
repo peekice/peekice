@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/1wIyr1y5wiWqo7nqbxHpWt" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273e2c879f3983d1488f2c3ca4e" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273148cd93cd936ee29cb4db587" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          FRIENDS
+          New Divide
          </em>
         </h3>
         <h3>
-         Artist:Marshmello
+         Artist:Linkin Park
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                          <!-- End random song -->
+                                            <!-- End random song -->
 
 <!-- Start last activity -->
 
