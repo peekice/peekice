@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Empire State Of Mind
+          The Box
          </em>
         </h3>
         <h3>
-         Artist:JAY-Z
+         Artist:Roddy Ricch
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                    <!-- End random song -->
+                                                                      <!-- End random song -->
 
 <!-- Start last activity -->
 
@@ -49,22 +49,22 @@
     <tr>
       <td align="center" colspan="3">
         <h2>🏃 My Latest Strava Activity</h2>
-        <a href="https://www.strava.com/activities/17162581767" target="_blank"><strong>Buriram Marathon</strong></a><br/>
-        <small>📅 24 January, 2026</small>
+        <a href="https://www.strava.com/activities/17400347967" target="_blank"><strong>Morning Run</strong></a><br/>
+        <small>📅 15 February, 2026</small>
       </td>
     </tr>
     <tr>
       <td width="150" align="center">
         <b>Distance</b><br />
-        <img src="https://img.shields.io/badge/21.41 km-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Distance">
+        <img src="https://img.shields.io/badge/9.94 km-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Distance">
       </td>
       <td width="150" align="center">
         <b>Time</b><br />
-        <img src="https://img.shields.io/badge/2h 53m 22s-03A9F4?logo=clockify&logoColor=fff&style=for-the-badge" alt="Pace">
+        <img src="https://img.shields.io/badge/1h 19m 26s-03A9F4?logo=clockify&logoColor=fff&style=for-the-badge" alt="Pace">
       </td>
       <td width="150" align="center">
         <b>Pace</b><br />
-        <img src="https://img.shields.io/badge/8:05_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
+        <img src="https://img.shields.io/badge/7:59_min/km-2D2D2D?style=for-the-badge&logo=speedtest&logoColor=white" alt="Pace">
       </td>
     </tr>
     <tr>
