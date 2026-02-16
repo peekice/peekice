@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/7KoYZb5Io55vvQHBJnaMT5" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d09a1e73f56004f0ca37fd2d" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          The Box
+          Levitating (feat. DaBaby)
          </em>
         </h3>
         <h3>
-         Artist:Roddy Ricch
+         Artist:Dua Lipa
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                      <!-- End random song -->
+                                                                        <!-- End random song -->
 
 <!-- Start last activity -->
 
