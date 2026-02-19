@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/0gvQoTWRxsW5Rd7KgPp0u3" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273add9eb25744782c3717c9368" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273148cd93cd936ee29cb4db587" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          HUMBLE.
+          New Divide
          </em>
         </h3>
         <h3>
-         Artist:Kendrick Lamar
+         Artist:Linkin Park
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                            <!-- End random song -->
+                                                                              <!-- End random song -->
 
 <!-- Start last activity -->
 
