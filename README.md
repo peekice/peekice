@@ -20,15 +20,15 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Heathens
+          Stressed Out
          </em>
         </h3>
         <h3>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                                      <!-- End random song -->
+                                                                                        <!-- End random song -->
 
 <!-- Start last activity -->
 
