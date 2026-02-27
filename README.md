@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273820b43679aab8d3b47001f9c" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          The Box
+          NUEVAYoL
          </em>
         </h3>
         <h3>
-         Artist:Roddy Ricch
+         Artist:Bad Bunny
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                                            <!-- End random song -->
+                                                                                              <!-- End random song -->
 
 <!-- Start last activity -->
 
