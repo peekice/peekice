@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Beggin'
+          California Love - Original Version
          </em>
         </h3>
         <h3>
-         Artist:Måneskin
+         Artist:2Pac
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                                                      <!-- End random song -->
+                                                                                                        <!-- End random song -->
 
 <!-- Start last activity -->
 
