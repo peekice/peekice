@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/1wIyr1y5wiWqo7nqbxHpWt" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273e2c879f3983d1488f2c3ca4e" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273c1a0ccc389f263d63d39175f" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          FRIENDS
+          All The Stars (with SZA) - From "Black Panther: The Album"
          </em>
         </h3>
         <h3>
-         Artist:Marshmello
+         Artist:Kendrick Lamar
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                                                          <!-- End random song -->
+                                                                                                            <!-- End random song -->
 
 <!-- Start last activity -->
 
