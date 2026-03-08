@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          Business
+          California Love - Original Version
          </em>
         </h3>
         <h3>
-         Artist:Eminem
+         Artist:2Pac
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                                                              <!-- End random song -->
+                                                                                                                <!-- End random song -->
 
 <!-- Start last activity -->
 
