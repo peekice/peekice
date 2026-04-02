@@ -20,19 +20,19 @@
         <h2>
          🎶 Song for Today 🎶
         </h2>
-        <a href="https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG" target="_blank">
-         <img src="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58" style="width: 250px;"/>
+        <a href="https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW" target="_blank">
+         <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" style="width: 250px;"/>
         </a>
        </div>
        <div style="text-align: center;">
         <h3>
          Song Title:
          <em id="title">
-          tv off (feat. lefty gunplay)
+          Ride
          </em>
         </h3>
         <h3>
-         Artist:Kendrick Lamar
+         Artist:Twenty One Pilots
         </h3>
        </div>
       </div>
@@ -40,7 +40,7 @@
     </tr>
    </table>
   </div>
-                                                                                                                                                            <!-- End random song -->
+                                                                                                                                                              <!-- End random song -->
 
 <!-- Start last activity -->
 
