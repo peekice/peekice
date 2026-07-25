@@ -246,5 +246,10 @@ def get_activity_from_strava():
 
 
 if __name__ == "__main__":
-    random_songs_from_playlist()
-    get_activity_from_strava()
+    try:
+        random_songs_from_playlist()
+        get_activity_from_strava()
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+        
